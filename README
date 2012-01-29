@@ -1,0 +1,11 @@
+A Simple implementation of Conway's game of life in Ruby
+
+Setup 
+
+ * Install Ruby 1.9.2
+ * install bunlder     
+ * Download the source code
+ * run bundle install 
+ * invoke the game of life using the command 'ruby life.rb  < map size >'
+ * Alternatively you can use some of the example patterns stored in the examples directory with command ' ruby life.rb -p <pattern file name>' 
+ 
